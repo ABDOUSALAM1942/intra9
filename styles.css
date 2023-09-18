@@ -1,0 +1,51 @@
+/* p {
+    padding: 10px;
+    font-size: 16px;
+    min-width: 100px;
+    width: 300px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+} */
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    width: 300px;
+    height: 300px;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: white;
+    background: 
+    linear-gradient(rgb(67, 61, 180), rgb(67, 61, 180)) top,
+    linear-gradient(rgb(112, 106, 227),rgb(112, 106, 227)) center,
+    linear-gradient(rgb(67, 61, 180), rgb(67, 61, 180)) bottom;
+  background-size: 100% 25%, 100% 50%, 100% 25%; /* Ajustez les pourcentages ici */
+    background-repeat: no-repeat;
+  }
+  
+
+.y {
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+.favo {
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+
+/* #fav svg {
+    color: black;
+    width: 25rem;
+    height: 10rem;
+    background-color: #007bff;
+} */
+/* styles.css */
+
+/* Styles pour la section des icônes */
