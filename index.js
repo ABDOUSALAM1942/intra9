@@ -22,21 +22,21 @@ const getJokes = () => {
             </a>
         </p>
         <p class="favo">
-            <a style="color: white" href="URL_DE_VOTRE_PAGE_FAVORIS" target="_blank">
+            <a style="color: black" href="#" target="_blank">
                 <i class="fa-solid fa-link"></i> ${jsonData.description}
             </a>
         </p>
         <a href="https://www.facebook.com/votre-page-facebook" target="_blank">
-            <i class="fab fa-facebook fa-2x" style="color: blue; margin-right: 35px;"></i> <!-- Icône Facebook -->
+            <i class="fab fa-facebook fa-2x" style="color: white; margin-right: 35px;border: 2px solid yellow"></i> <!-- Icône Facebook -->
         </a>
         <a href="https://www.youtube.com/votre-chaine" target="_blank">
-            <i class="fab fa-youtube fa-2x" style="color: red; margin-right: 35px;"></i> <!-- Icône YouTube -->
+            <i class="fab fa-youtube fa-2x" style="color: red; margin-right: 35px;border: 2px solid yellow"></i> <!-- Icône YouTube -->
         </a>
         <a href="https://www.github.com/votre-repo" target="_blank">
-            <i class="fab fa-github fa-2x" style="color: black; margin-right: 35px;"></i> <!-- Icône GitHub -->
+            <i class="fab fa-github fa-2x" style="color: white; margin-right: 35px; border: 2px solid yellow"></i> <!-- Icône GitHub -->
         </a>
-        <a href="https://www.alibaba.com/votre-boutique" target="_blank">
-            <i class="fab fa-font-awesome fa-2x" style="color: orange; margin-right: 35px;"></i> <!-- Icône Alibaba -->
+        <a href="https://fontawesome.com/" target="_blank">
+            <i class="fab fa-font-awesome fa-2x" style="color: orange; margin-right: 35px;border: 2px solid yellow"></i> <!-- Icône Alibaba -->
         </a>
     `;
 

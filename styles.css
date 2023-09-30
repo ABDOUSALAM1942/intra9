@@ -19,9 +19,9 @@ body {
     justify-content: space-between;
     color: white;
     background: 
-    linear-gradient(rgb(67, 61, 180), rgb(67, 61, 180)) top,
-    linear-gradient(rgb(112, 106, 227),rgb(112, 106, 227)) center,
-    linear-gradient(rgb(67, 61, 180), rgb(67, 61, 180)) bottom;
+    linear-gradient(rgb(230, 10, 120),rgb(230, 10, 120)) top,
+    linear-gradient(rgb(249, 249, 249), rgb(252, 250, 252)) center,
+    linear-gradient(rgb(52, 42, 232), rgb(52, 42, 232)) bottom;
   background-size: 100% 25%, 100% 50%, 100% 25%; /* Ajustez les pourcentages ici */
     background-repeat: no-repeat;
   }
